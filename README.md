@@ -130,7 +130,7 @@ We expect a clean, navigable repository with logical module separation. How you 
 
 ## Deliverables
 
-Submit a link to a **private GitHub repository** and send an invite to **johannes.unruh@mamahealth.io** (`tj-mm`) and **lorenzo.famiglini@mamahealth.io** (`lollomamahealth`).
+Submit a link to a **private GitHub repository** and send an invite to **johannes.unruh@mamahealth.io** (`tj-mm`) and **lorenzo.famiglini@mamahealth.io** (`lollomamahealth`) and a short notification email to **rebecca.looschelders@mamahealth.io**.
 
 The repository must contain:
 
@@ -163,7 +163,7 @@ These are **completely optional** but will distinguish strong candidates:
 
 ## Time Expectation
 
-We respect your time. This challenge is designed to be completed in **6–8 hours**. Focus on a clean, working pipeline with a few well-implemented analytics rather than trying to cover everything superficially. A smaller scope done well is better than a broad scope done poorly.
+We respect your time. This challenge is designed to be completed in **3–8 hours**. Focus on a clean, working pipeline with a few well-implemented analytics rather than trying to cover everything superficially. A smaller scope done well is better than a broad scope done poorly.
 
 ---
 
